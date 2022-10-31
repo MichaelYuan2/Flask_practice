@@ -1,2 +1,2 @@
 # Flask_practice
-First practice regardign flask
+First practice regarding flask
